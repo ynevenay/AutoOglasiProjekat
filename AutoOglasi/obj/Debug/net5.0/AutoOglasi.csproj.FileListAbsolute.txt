@@ -1,0 +1,637 @@
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\appsettings.Development.json
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\appsettings.json
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.exe
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.deps.json
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.json
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.dev.json
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.pdb
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.pdb
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\DnsClient.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\SharpCompress.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Snappier.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ZstdSharp.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.AssemblyReference.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfoInputs.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfo.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CoreCompileInputs.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.MvcApplicationPartsAssemblyInfo.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.input.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.output.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorCoreGenerate.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cs
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.Views.pdb
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\scopedcss\bundle\AutoOglasi.styles.css
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Manifest.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Pack.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.AutoOglasi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.build.AutoOglasi.props
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AutoOglasi.props
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AutoOglasi.props
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.Up2Date
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\refint\AutoOglasi.dll
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.pdb
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.genruntimeconfig.cache
+C:\Fakultet\Microsoft tehnologije za pristup\AutoOglasi\AutoOglasi\obj\Debug\net5.0\ref\AutoOglasi.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\appsettings.Development.json
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\appsettings.json
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.exe
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.deps.json
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.json
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.dev.json
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.pdb
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.pdb
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AWSSDK.Core.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\DnsClient.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\SharpCompress.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Snappier.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ZstdSharp.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.AssemblyReference.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.GeneratedMSBuildEditorConfig.editorconfig
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfoInputs.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfo.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CoreCompileInputs.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.MvcApplicationPartsAssemblyInfo.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.input.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.output.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorCoreGenerate.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.Views.pdb
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\scopedcss\bundle\AutoOglasi.styles.css
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Manifest.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Pack.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.AutoOglasi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.build.AutoOglasi.props
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AutoOglasi.props
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AutoOglasi.props
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CopyComplete
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.dll
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\refint\AutoOglasi.dll
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.pdb
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.genruntimeconfig.cache
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\ref\AutoOglasi.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Humanizer.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\appsettings.Development.json
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\appsettings.json
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.exe
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.deps.json
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.json
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.dev.json
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.pdb
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.pdb
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AWSSDK.Core.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\DnsClient.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Humanizer.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\MongoDbGenericRepository.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\SharpCompress.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\Snappier.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ZstdSharp.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\AutoOglasi crud\AutoOglasi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.AssemblyReference.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.GeneratedMSBuildEditorConfig.editorconfig
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfoInputs.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfo.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CoreCompileInputs.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.MvcApplicationPartsAssemblyInfo.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.input.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.output.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorCoreGenerate.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Detaljno.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\MojiOglasi.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\CreateRole.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cs
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.Views.pdb
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\scopedcss\bundle\AutoOglasi.styles.css
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Manifest.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Pack.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.AutoOglasi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.build.AutoOglasi.props
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AutoOglasi.props
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AutoOglasi.props
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CopyComplete
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.dll
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\refint\AutoOglasi.dll
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.pdb
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\AutoOglasi.genruntimeconfig.cache
+E:\AutoOglasi crud\AutoOglasi\obj\Debug\net5.0\ref\AutoOglasi.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\appsettings.Development.json
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\appsettings.json
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.exe
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.deps.json
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.json
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.dev.json
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.pdb
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.pdb
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AWSSDK.Core.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\DnsClient.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Humanizer.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\MongoDbGenericRepository.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\SharpCompress.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\Snappier.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ZstdSharp.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\AutoOglasi WEB\AutoOglasi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.AssemblyReference.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.GeneratedMSBuildEditorConfig.editorconfig
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfoInputs.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfo.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CoreCompileInputs.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.MvcApplicationPartsAssemblyInfo.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.input.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.output.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorCoreGenerate.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Detaljno.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\MojiOglasi.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\CreateRole.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cs
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.Views.pdb
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\scopedcss\bundle\AutoOglasi.styles.css
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Manifest.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Pack.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.AutoOglasi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.build.AutoOglasi.props
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AutoOglasi.props
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AutoOglasi.props
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CopyComplete
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.dll
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\refint\AutoOglasi.dll
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.pdb
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\AutoOglasi.genruntimeconfig.cache
+E:\AutoOglasi WEB\AutoOglasi\obj\Debug\net5.0\ref\AutoOglasi.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+E:\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDbGenericRepository.dll
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Detaljno.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\MojiOglasi.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+E:\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\CreateRole.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\appsettings.json
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.exe
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.deps.json
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.json
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.runtimeconfig.dev.json
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ref\AutoOglasi.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.pdb
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AutoOglasi.Views.pdb
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\Snappier.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.AssemblyInfo.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorAssemblyInfo.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.Manifest.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\staticwebassets\AutoOglasi.StaticWebAssets.xml
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\scopedcss\bundle\AutoOglasi.styles.css
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.input.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.TagHelpers.output.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorCoreGenerate.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Detaljno.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Car\MojiOglasi.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\User\CreateRole.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cache
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.RazorTargetAssemblyInfo.cs
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.Views.pdb
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.csproj.CopyComplete
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\ref\AutoOglasi.dll
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.pdb
+C:\Users\Luka\Desktop\AutoOglasi\AutoOglasi\obj\Debug\net5.0\AutoOglasi.genruntimeconfig.cache
