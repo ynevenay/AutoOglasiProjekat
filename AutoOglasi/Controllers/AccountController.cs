@@ -1,4 +1,4 @@
-﻿using AutoOglasi.Models;
+using AutoOglasi.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -16,6 +16,37 @@ namespace AutoOglasi.Controllers
         {
             this._userManager = userManager;
             this._signInManager = signInManager;
-        }   
+        }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        public IActionResult AccessDenied()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [AllowAnonymous]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login([Required][EmailAddress] string email, [Required] string password, string returnurl)
+        {
+            if (ModelState.IsValid)
+            {
+                ApplicationUser appUser = await _userManager.FindByEmailAsync(email);
+                if (appUser != null)
+                {
+                    Microsoft.AspNetCore.Identity.SignInResult result = await _signInManager.PasswordSignInAsync(appUser, password, false, false);
+                    if (result.Succeeded)
+                    {
+                        return Redirect(returnurl ?? "/");
+                    }
+                    ModelState.AddModelError(nameof(email), "Prijava neuspesna: Pogresan Email ili Password");
+                }
+            }
+            return View();
+        }
     }
 }
