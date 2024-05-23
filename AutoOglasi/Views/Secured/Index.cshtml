@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2 class="text-center mt-5 mb-4">Meni</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-3">
+            <div class="card text-center mb-4">
+                <div class="card-body">
+                    <i class="fas fa-car fa-3x mb-3"></i>
+                    <h5 class="card-title">Svi oglasi</h5>
+                    <a asp-controller="Car" asp-action="Index" class="btn btn-primary">Pogledaj</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-center mb-4">
+                <div class="card-body">
+                    <i class="fas fa-user-cog fa-3x mb-3"></i>
+                    <h5 class="card-title">Moji oglasi</h5>
+                    <a asp-controller="Car" asp-action="MojiOglasi" class="btn btn-primary">Pogledaj</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-center mb-4">
+                <div class="card-body">
+                    <i class="fas fa-plus-circle fa-3x mb-3"></i>
+                    <h5 class="card-title">Postavi oglas</h5>
+                    <a asp-controller="Car" asp-action="Create" class="btn btn-primary">Postavi</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-center mb-4">
+                <div class="card-body">
+                    <i class="fas fa-sign-out-alt fa-3x mb-3"></i>
+                    <h5 class="card-title">Izlaz iz aplikacije</h5>
+                    <button type="button" class="btn btn-danger" onclick="potvrdiIzlaz()">Izađi</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function potvrdiIzlaz() {
+            if (confirm("Browseri ne dozvoljavaju direktan izlaz, stoga bicete odjavljeni sa vaseg naloga.\nDa li ste sigurni da zelite da napustite aplikaciju?")) {
+                window.location.href = '@Url.Action("Logout", "Account")';
+            }
+        }
+    </script>
+}
