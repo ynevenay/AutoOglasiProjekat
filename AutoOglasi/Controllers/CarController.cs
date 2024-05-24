@@ -1,4 +1,4 @@
-using AutoOglasi.Models;
+﻿using AutoOglasi.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -160,6 +160,59 @@ namespace AutoOglasi.Controllers
                 }
             }
             return View(car);
+        }
+
+        // obrisi oglas GET
+        public async Task<IActionResult> Delete(string id)
+        {
+            var oglas = await _car.Find(a => a.Id == id && a.UserId == _userManager.GetUserId(User)).FirstOrDefaultAsync();
+            if (oglas == null)
+            {
+                return NotFound();
+            }
+            return View(oglas);
+        }
+
+        // obrisi oglas POST
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(string id)
+        {
+            var oglas = await _car.Find(a => a.Id == id && a.UserId == _userManager.GetUserId(User)).FirstOrDefaultAsync();
+            if (oglas == null)
+            {
+                return NotFound();
+            }
+
+            var deleteResult = await _car.DeleteOneAsync(a => a.Id == id);
+            if (deleteResult.IsAcknowledged)
+            {
+                return RedirectToAction(nameof(MojiOglasi));
+            }
+            return View(oglas);
+        }
+
+        [AllowAnonymous]
+        public async Task<IActionResult> Detaljno(string id)
+        {
+            if (string.IsNullOrEmpty(id))
+            {
+                return NotFound();
+            }
+
+            var auto = await _car.Find(c => c.Id == id).FirstOrDefaultAsync();
+            if (auto == null)
+            {
+                return NotFound();
+            }
+
+            // provera da li je korisnik povezan sa autom po userId DA BI prikazali userName
+            var carUser = await _userManager.FindByIdAsync(auto.UserId);
+            if (carUser != null)
+            {
+                auto.User = carUser;
+            }
+
+            return View(auto);
         }
     }
 }
