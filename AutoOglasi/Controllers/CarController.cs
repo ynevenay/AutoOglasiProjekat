@@ -1,4 +1,4 @@
-﻿using AutoOglasi.Models;
+using AutoOglasi.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -110,6 +110,55 @@ namespace AutoOglasi.Controllers
             }
 
             Console.WriteLine("Invalid model state.");
+            return View(car);
+        }
+
+        //izmeni oglas GET
+        public async Task<IActionResult> Edit(string id)
+        {
+            var oglas = await _car.Find(a => a.Id == id && a.UserId == _userManager.GetUserId(User)).FirstOrDefaultAsync();
+            if (oglas == null)
+            {
+                return NotFound();
+            }
+            return View(oglas);
+        }
+
+        // izmeni oglas POST
+        [HttpPost]
+        public async Task<IActionResult> Edit(string id, Car car, List<IFormFile> images)
+        {
+            if (ModelState.IsValid)
+            {
+                var existingCar = await _car.Find(a => a.Id == id && a.UserId == _userManager.GetUserId(User)).FirstOrDefaultAsync();
+                if (existingCar == null)
+                {
+                    return NotFound();
+                }
+
+                existingCar.Brand = car.Brand;
+                existingCar.Model = car.Model;
+                existingCar.Year = car.Year;
+                existingCar.Price = car.Price;
+                existingCar.Description = car.Description;
+
+                // dodaj novu sliku
+                foreach (var image in images)
+                {
+                    using (var ms = new MemoryStream())
+                    {
+                        await image.CopyToAsync(ms);
+                        var imageData = ms.ToArray();
+                        existingCar.Images.Add(new BsonBinaryData(imageData));
+                    }
+                }
+
+                var updateResult = await _car.ReplaceOneAsync(a => a.Id == id && a.UserId == _userManager.GetUserId(User), existingCar);
+                if (updateResult.IsAcknowledged)
+                {
+                    return RedirectToAction(nameof(MojiOglasi));
+                }
+            }
             return View(car);
         }
     }
