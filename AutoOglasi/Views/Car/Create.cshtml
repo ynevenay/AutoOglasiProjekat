@@ -1,0 +1,105 @@
+﻿@model AutoOglasi.Models.Car
+
+@{
+    ViewData["Title"] = "Kreiraj nalog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<h1 class="text-center">Postavi oglas</h1>
+<br />
+<div class="d-flex justify-content-center">
+    <div class="card rounded shadow" style="background-color:  #ccf2ff; width: 50%;">
+        <div class="card-body">
+            <h4 class="card-title">Informacije o vozilu</h4>
+            <hr />
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        @Html.AntiForgeryToken()
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="Brand" class="control-label">Proizvodjac:</label>
+                            <select id="Brand" name="Brand" class="form-select" onchange="popuniModele()">
+                                <option>Izaberite proizvodjaca</option>
+                                <option value="Audi">Audi</option>
+                                <option value="BMW">BMW</option>
+                                <option value="Dacia">Dacia</option>
+                                <option value="Ferrari">Ferrari</option>
+                                <option value="Jeep">Jeep</option>
+                                <option value="Lamborghini">Lamborghini</option>
+                                <option value="Land Rover">Land Rover</option>
+                                <option value="Maserati">Maserati</option>
+                                <option value="Mazda">Mazda</option>
+                                <option value="Mercedes-Benz">Mercedes-Benz</option>
+                                <option value="Opel">Opel</option>
+                                <option value="Peugeot">Peugeot</option>
+                                <option value="Skoda">Skoda</option>
+                                <option value="Suzuki">Suzuki</option>
+                                <option value="Tesla">Tesla</option>
+                                <option value="Toyota">Toyota</option>
+                                <option value="Yugo">Yugo</option>
+                            </select>
+                            <span asp-validation-for="Brand" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Model" class="control-label">Model:</label>
+                            <select id="Model" name="Model" class="form-select">
+                                <option>Izaberite model</option>
+                            </select>
+                            <span asp-validation-for="Model" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Year" class="control-label">Godina proizvodnje:</label>
+                            <select id="Year" name="Year" class="form-select">
+                                <option value="" disabled selected hidden>Izaberi godiste</option>
+                                @for (int year = 2000; year <= DateTime.Now.Year; year++)
+                                {
+                                    <option value="@year">@year</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Year" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Price" class="control-label">Cena:</label>
+                            <input asp-for="Price" class="form-control" placeholder="€" />
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Description" class="control-label">Opis vozila:</label>
+                            <input asp-for="Description" class="form-control" />
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="images">Slike:</label>
+                            <input type="file" name="images" class="form-control" multiple />
+                            @* slika nije obavezna *@
+                        </div>
+
+                        <div class="form-group text-center">
+                            <input type="submit" value="Postavi oglas" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <a asp-action="Index" class="btn btn-primary">Nazad na listu automobila</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+        <script src="~/js/karakteristike.js"></script>
+}
