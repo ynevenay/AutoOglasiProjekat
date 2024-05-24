@@ -55,5 +55,62 @@ namespace AutoOglasi.Controllers
             var oglasi = await _car.Find(filter).ToListAsync();
             return View(oglasi);
         }
+
+        //samo oglasi ulogovanog korisnika
+        public async Task<IActionResult> MojiOglasi()
+        {
+            var userId = _userManager.GetUserId(User);// Identifikacija trenutnog korisnika
+            var oglasi = await _car.Find(oglas => oglas.UserId == userId).ToListAsync();//pronalazenje oglasa trenutnog korisnika
+            return View(oglasi);
+        }
+
+        //Postavi oglas GET
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // Postavi oglas POST
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(Car car, List<IFormFile> images)
+        {
+            if (ModelState.IsValid)
+            {
+                car.UserId = _userManager.GetUserId(User);
+                car.CreatedAt = DateTime.UtcNow;
+
+                // Obrada dodavanja slika, prebacuje se slika u bytearray da bi mogla da se cuva u bazi
+                foreach (var image in images)
+                {
+                    using (var ms = new MemoryStream())
+                    {
+                        await image.CopyToAsync(ms);
+                        var imageData = ms.ToArray();
+                        car.Images.Add(new BsonBinaryData(imageData));
+                    }
+                }
+
+                await _car.InsertOneAsync(car);
+
+                return RedirectToAction(nameof(MojiOglasi));
+            }
+
+            // ukolioko ima gresaka u modelu, debug deo
+            foreach (var key in ModelState.Keys)
+            {
+                var state = ModelState[key];
+                if (state.Errors.Any())
+                {
+                    foreach (var error in state.Errors)
+                    {
+                        Console.WriteLine($"Validation error for '{key}': {error.ErrorMessage}");
+                    }
+                }
+            }
+
+            Console.WriteLine("Invalid model state.");
+            return View(car);
+        }
     }
 }
