@@ -1,0 +1,100 @@
+﻿@model AutoOglasi.Models.Car
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h1 class="fw-bold mb-4">Izmeni oglas</h1>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h4 class="fw-bold mb-3">Automobil</h4>
+
+            <div class="card mb-4">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        @foreach (var image in Model.Images)
+                        {
+                            var base64Image = Convert.ToBase64String(image.AsByteArray);
+                            var imgSrc = $"data:image/jpeg;base64,{base64Image}";
+                            <div class="carousel-item @((image == Model.Images.First()) ? "active" : "")">
+                                <img src="@imgSrc" class="d-block w-100" alt="Slika auta" width="400" height="500">
+                            </div>
+                        }
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Slike auta</h5>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-6">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Brand" class="control-label fw-bold">Brend</label>
+                    <input asp-for="Brand" class="form-control" readonly />
+                    <span asp-validation-for="Brand" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Model" class="control-label fw-bold">Model</label>
+                    <input asp-for="Model" class="form-control" readonly />
+                    <span asp-validation-for="Model" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Year" class="control-label fw-bold">Godište</label>
+                    <input asp-for="Year" class="form-control" readonly />
+                    <span asp-validation-for="Year" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label fw-bold">Cena</label>
+                    <input asp-for="Price" class="form-control" placeholder="€" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label fw-bold">Opis</label>
+                    <textarea asp-for="Description" class="form-control" rows="5"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="images" class="control-label fw-bold">Dodaj slike</label>
+                    <input type="file" name="images" class="form-control" multiple />
+                </div>
+
+                <div class="form-group mt-4">
+                    <button type="submit" class="btn btn-primary">Sačuvaj</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a asp-action="MojiOglasi" class="btn btn-primary">Nazad na moje oglase</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            $('.carousel').carousel();
+        });
+    </script>
+}
+
