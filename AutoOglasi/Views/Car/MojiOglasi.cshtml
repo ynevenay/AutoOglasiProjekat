@@ -1,0 +1,39 @@
+﻿@model IEnumerable<AutoOglasi.Models.Car>
+
+<br />
+<h2>Moji oglasi</h2>
+<br />
+<div class="row">
+    @foreach (var ad in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@GetFirstImage(ad)" class="card-img-top" alt="Car Image" width="300" height="350">
+                <div class="card-body">
+                    <h5 class="card-title" font-size: 20px;>@ad.Brand  @ad.Model</h5>
+                    <hr />
+                    <p class="card-text text-center">
+                        <span class="badge rounded-pill bg-warning" style="font-size: 16px;">Godiste: @ad.Year</span>
+                        <span></span>
+                        <span class="badge rounded-pill bg-danger" style="font-size: 16px;">Cena: @ad.Price €</span>
+                    </p>
+                    <a href="@Url.Action("Detaljno", "Car", new { id = ad.Id })" class="btn btn-primary">Detaljno</a>
+                    <a href="@Url.Action("Edit", "Car", new { id = ad.Id })" class="btn btn-warning">Izmeni</a>
+                    <a href="@Url.Action("Delete", "Car", new { id = ad.Id })" class="btn btn-danger">Obrisi</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@functions {
+    string GetFirstImage(AutoOglasi.Models.Car car)
+    {
+        if (car.Images != null && car.Images.Any())
+        {
+            var base64Image = Convert.ToBase64String(car.Images[0].AsByteArray);
+            return $"data:image/jpeg;base64,{base64Image}";
+        }
+        return "";
+    }
+}
