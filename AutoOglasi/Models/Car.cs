@@ -41,8 +41,14 @@ namespace AutoOglasi.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
+        public List<Comment> Comments { get; set; } // lista komentara za dati auto
+
+        public Car()
+        {
+            Comments = new List<Comment>(); // inicijalizacija liste komenatara
+        }
         //Da bi mogla da prikazem koji korisnik je postavio oglas
-        public ApplicationUser User {  get; set; }
+        public ApplicationUser User { get; set; }
 
     }
 }
