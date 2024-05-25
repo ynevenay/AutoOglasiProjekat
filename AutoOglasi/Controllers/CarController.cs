@@ -12,7 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace AutoOglasi.Controllers
-{   
+{
     //provera da su korisnici autentifikovani tj ulogovani pre pristupa
     [Authorize]
     public class CarController : Controller
@@ -27,7 +27,7 @@ namespace AutoOglasi.Controllers
         }
 
         //pregledaj sve oglase
-        public async Task<IActionResult> Index(string brand,string year)
+        public async Task<IActionResult> Index(string brand, string year)
         {
             //filtriraj po godini proizvodnje
             var filterBuilder = Builders<Car>.Filter;
@@ -113,6 +113,7 @@ namespace AutoOglasi.Controllers
             return View(car);
         }
 
+
         //izmeni oglas GET
         public async Task<IActionResult> Edit(string id)
         {
@@ -124,6 +125,7 @@ namespace AutoOglasi.Controllers
             return View(oglas);
         }
 
+        //izmeni oglas POST
         // izmeni oglas POST
         [HttpPost]
         public async Task<IActionResult> Edit(string id, Car car, List<IFormFile> images)
@@ -212,7 +214,51 @@ namespace AutoOglasi.Controllers
                 auto.User = carUser;
             }
 
+            // provera da li je korisnik povezan sa komentarom po userId DA BI prikazali userName
+            foreach (var comment in auto.Comments)
+            {
+                var user = await _userManager.FindByIdAsync(comment.UserId);
+                if (user != null)
+                {
+                    comment.User = user;
+                }
+            }
             return View(auto);
+        }
+
+        //komentari
+        [HttpPost]
+        [AllowAnonymous]
+        public async Task<IActionResult> AddComment(string id, string text)
+        {
+            if (string.IsNullOrEmpty(id) || string.IsNullOrEmpty(text))
+            {
+                return BadRequest();
+            }
+
+            var car = await _car.Find(c => c.Id == id).FirstOrDefaultAsync();
+            if (car == null)
+            {
+                return NotFound();
+            }
+
+            // Postavi komentar
+            var comment = new Comment
+            {
+                UserId = _userManager.GetUserId(User),
+                Text = text,
+                CreatedAt = DateTime.UtcNow
+            };
+
+            car.Comments.Add(comment); // Komentar za auto
+            var updateResult = await _car.ReplaceOneAsync(c => c.Id == id, car); // Apdejt auta u bazi
+
+            if (updateResult.IsAcknowledged)
+            {
+                return RedirectToAction(nameof(Detaljno), new { id }); // Redirekcija na detaljno
+            }
+
+            return StatusCode(StatusCodes.Status500InternalServerError);
         }
     }
 }
