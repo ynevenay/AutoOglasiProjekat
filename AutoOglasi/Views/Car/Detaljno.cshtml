@@ -1,0 +1,101 @@
+﻿@model AutoOglasi.Models.Car
+
+@{
+    ViewData["Title"] = "Detaljno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    @for (int i = 0; i < Model.Images.Count; i++)
+                    {
+                        <li data-target="#carouselExampleIndicators" data-slide-to="@i" class="@((i == 0) ? "active" : "")"></li>
+                    }
+                </ol>
+                <div class="carousel-inner">
+                    @foreach (var image in Model.Images)
+                    {
+                        var base64Image = Convert.ToBase64String(image.AsByteArray);
+                        var imgSrc = $"data:image/jpeg;base64,{base64Image}";
+                        <div class="carousel-item @((image == Model.Images.First()) ? "active" : "")">
+                            <img src="@imgSrc" class="d-block w-100" alt="slika auta" width="400" height="500">
+                        </div>
+                    }
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Brand - @Model.Model</h5>
+                    <p class="card-text">Godiste: @Model.Year</p>
+                    <p class="card-text">Cena: @Model.Price €</p>
+                    <p class="card-text">Korisnik: @(Model.User != null ? Model.User.UserName : "Unknown")</p>
+                    <p class="card-text">Opis: @Model.Description</p>
+                    <p class="card-text">Oglas postavljen: @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<br />
+@if (Model.Comments != null && Model.Comments.Any())
+{
+    <div class="container mt-4">
+        <h4>Komentari</h4>
+        <div class="row">
+            @foreach (var comment in Model.Comments)
+            {
+                <div class="col-md-12 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between">
+                                <small class="text-muted">Objavio korisnik: @comment.User.UserName</small>
+                                <small class="text-muted">@comment.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</small>
+                            </div>
+                            <p class="card-text">@comment.Text</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}
+else
+{
+    <p>Jos uvek nema komentara za ovaj oglas</p>
+}
+<br />
+<h4>Ostavi komentar</h4>
+<form asp-controller="Car" asp-action="AddComment" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class="form-group">
+        <label for="comment">Komentar:</label>
+        <textarea class="form-control" id="comment" name="text" rows="3"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Postavi</button>
+</form>
+<div class="container mt-3">
+    <a asp-action="Index" class="btn btn-primary">Nazad na listu automobila</a>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.carousel').carousel();
+        });
+    </script>
+}
